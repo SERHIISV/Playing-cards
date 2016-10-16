@@ -1,0 +1,13 @@
+test_choose_by_index (__main__.TestMethods) ... ok
+test_choose_card (__main__.TestMethods) ... ok
+test_compare (__main__.TestMethods) ... ok
+test_determine (__main__.TestMethods) ... ok
+test_random_choose (__main__.TestMethods) ... ok
+test_shuffle_deck (__main__.TestMethods) ... ok
+test_sort_by_rank (__main__.TestMethods) ... ok
+test_sort_by_suit (__main__.TestMethods) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.005s
+
+OK
